@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Openclassroom.<br>🌱 I’m currently learning more about Software Engineer.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - emmanuel.narcisse97460@gmail.com<br>😄 Pronouns: Epok<br>⚡ Fun fact: My favourite sport is MMA.
+🔭 I’m currently free for working.<br>🌱 I’m currently learning more about Software Engineer.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - emmanuel.narcisse97460@gmail.com<br>😄 Pronouns: Epok<br>⚡ Fun fact: My favourite sport is MMA.
 
 
 ## 🌐 Socials:
