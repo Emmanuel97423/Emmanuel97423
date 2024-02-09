@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently free for working.<br>🌱 I’m currently learning more about Software Engineer.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - emmanuel.narcisse97460@gmail.com<br>😄 Pronouns: Epok<br>⚡ Fun fact: My favourite sport is MMA.
-
+<br>💰 Pro account: https://github.com/Emmanuel97460
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EpokSc2) 
